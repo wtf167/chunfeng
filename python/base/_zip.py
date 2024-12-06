@@ -1,6 +1,5 @@
 import zipfile
 import datetime
-import time
 
 fp = "/tmp/a.zip"
 s = 1865689000
